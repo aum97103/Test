@@ -919,6 +919,12 @@ section.lazy-placeholder:after {
 .cid-rCNatIE1oJ .mbr-section-subtitle {
   font-style: italic;
 }
+.cid-rCNatIE1oJ H3 {
+  color: #767676;
+}
+.cid-rCNatIE1oJ H1 {
+  color: #000000;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1414,8 +1420,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rDWNiml9dw {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #f3f4f6;
 }
 .cid-rDWNiml9dw .testimonial-text {
@@ -1439,8 +1445,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rCNa1jv05j {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #232323;
 }
 .cid-rCNa1jv05j .testimonial-text {
@@ -1466,8 +1472,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rDWMRImC2M {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #f3f4f6;
 }
 .cid-rDWMRImC2M .testimonial-text {
